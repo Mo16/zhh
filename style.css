@@ -8552,6 +8552,10 @@ body .search-modal .close:hover {
   width: 40px;
   opacity: 1;
 }
+.rs-project-details h4 {
+  color: #345333;
+  font-size: 1.3rem;
+}
 .rs-project-details .project-title .title {
   font-size: 36px;
   line-height: 46px;
