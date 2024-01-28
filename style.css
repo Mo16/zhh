@@ -2930,8 +2930,8 @@ blockquote p {
   color: #ff5a06;
 }
 .full-width-header .rs-header .middle-header {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .full-width-header .rs-header .middle-header .row-table {
   display: flex;
@@ -2951,7 +2951,7 @@ blockquote p {
 }
 .full-width-header .rs-header .middle-header .logo-part a img {
   transition: 0.4s;
-  max-height: 36px;
+  max-height: 76px;
 }
 .full-width-header .rs-header .middle-header .rs-contact-info {
   display: flex;
@@ -5454,7 +5454,7 @@ body .search-modal .close:hover {
   padding: 230px 0 230px;
 }
 .rs-slider.slider-style8 .slider .slider-item .slider-inner .content-part .sl-subtitle {
-  font-size: 18px;
+  font-size: 25px;
   font-weight: 500;
   line-height: 28px;
   text-transform: capitalize;
@@ -13116,7 +13116,7 @@ body .search-modal .close:hover {
   padding: 85px 0 70px;
 }
 .rs-footer.footer-main-home .footer-top .footer-logo a img {
-  height: 30px;
+  height: 90px;
 }
 .rs-footer.footer-main-home .footer-top .footer-title {
   position: relative;
@@ -13268,9 +13268,10 @@ body .search-modal .close:hover {
   color: #ffffff;
   margin: 0;
 }
+
 .rs-footer.footer-main-home .footer-bottom .copyright p a {
   transition: all 0.4s;
-  color: #ffffff;
+  color: red;
 }
 .rs-footer.footer-main-home .footer-bottom .copyright p a:hover {
   color: #ffb703;
