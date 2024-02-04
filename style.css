@@ -204,7 +204,7 @@ h6 {
     padding-bottom: 220px;
 }
 a {
-    color: #ffb703;
+    color: #0052da;
     transition: all 0.3s ease;
     text-decoration: none !important;
     outline: none !important;
@@ -213,7 +213,7 @@ a:active,
 a:hover {
     text-decoration: none;
     outline: 0 none;
-    color: #ffb703;
+    color: #0052da;
 }
 ul {
     list-style: outside none none;
@@ -224,12 +224,12 @@ ul {
     clear: both;
 }
 ::-moz-selection {
-    background: #ffb703;
+    background: #0052da;
     text-shadow: none;
     color: #ffffff;
 }
 ::selection {
-    background: #ffb703;
+    background: #0052da;
     text-shadow: none;
     color: #ffffff;
 }
@@ -472,7 +472,7 @@ body.nav-expanded .offwrap {
     background: unset !important;
 }
 .rs-menu-toggle {
-    color: #ffb703;
+    color: #0052da;
     text-align: right;
 }
 button {
@@ -506,7 +506,7 @@ button {
     z-index: 0;
     content: "\f054";
     font-family: "FontAwesome";
-    color: #ffb703;
+    color: #0052da;
     font-size: 12px;
 }
 .features-content {
@@ -519,7 +519,7 @@ button {
 }
 .features-content ul.rs-features-list li i {
     color: #000000;
-    background-color: #ffb703;
+    background-color: #0052da;
     padding: 15px 15px 15px 15px;
     margin: 0px 25px 0px 0px;
     border-radius: 50px 50px 50px 50px;
@@ -561,14 +561,14 @@ ul.services-list li a:before {
     color: #010d14;
 }
 ul.services-list li a:hover {
-    background: #ffb703;
+    background: #0052da;
     color: #010d14;
 }
 ul.services-list li a:hover:before {
     color: #010d14;
 }
 ul.services-list li a.active {
-    background: #ffb703;
+    background: #0052da;
     color: #010d14;
 }
 ul.services-list li a.active:before {
@@ -593,7 +593,7 @@ ul.check-lists .list-item {
     padding-bottom: calc(6px);
 }
 ul.check-lists .list-item .icon-list-icon i {
-    color: #ffb703;
+    color: #0052da;
     font-size: 18px;
 }
 ul.check-lists .list-item .icon-list-icon i:before {
@@ -638,7 +638,7 @@ ul.check-lists2 li:before {
     height: 20px;
     line-height: 20px;
     color: #010d14;
-    background: #ffb703;
+    background: #0052da;
     margin: 0;
     display: inline-block;
     font-family: uicons-regular-rounded !important;
@@ -657,7 +657,7 @@ ul.check-lists3 li {
 ul.check-lists3 li:before {
     content: "\f160";
     font-size: 18px;
-    color: #ffb703;
+    color: #0052da;
     margin: 0;
     display: inline-block;
     font-family: uicons-regular-rounded !important;
@@ -684,7 +684,7 @@ button:focus {
     align-items: center;
     padding: 15px 10px 15px 8px;
     border-radius: 0;
-    background: #ffb703;
+    background: #0052da;
 }
 .pagination-area .nav-link .page-number {
     padding: 2px 15px 0 20px;
@@ -713,7 +713,7 @@ button:focus {
     padding: 0 18px;
     margin: 10px 0;
     border-right: 1px solid #e6e6e6;
-    color: #ffb703;
+    color: #0052da;
     font-size: 18px;
 }
 .pagenav-link ul li a {
@@ -732,10 +732,10 @@ button:focus {
     transition: all 0.3s ease;
 }
 .pagenav-link ul li a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .pagenav-link ul li a:hover i:before {
-    color: #ffb703;
+    color: #0052da;
 }
 .pagenav-link ul li:last-child {
     border-right: none;
@@ -783,11 +783,11 @@ button:focus {
 }
 .gridFilter.gridfilter-style2 button.active {
     color: #010d14;
-    background: #ffb703;
+    background: #0052da;
 }
 .gridFilter.gridfilter-style2 button:hover {
     color: #010d14;
-    background: #ffb703 !important;
+    background: #0052da !important;
 }
 .gridFilter.gridfilter-style2.yellow-gridfilter button {
     background: #e8eaee !important;
@@ -795,11 +795,11 @@ button:focus {
 }
 .gridFilter.gridfilter-style2.yellow-gridfilter button.active {
     color: #010d14;
-    background: #ffb703;
+    background: #0052da;
 }
 .gridFilter.gridfilter-style2.yellow-gridfilter button:hover {
     color: #010d14;
-    background: #ffb703 !important;
+    background: #0052da !important;
 }
 blockquote {
     margin: 40px 0;
@@ -812,8 +812,8 @@ blockquote {
     text-align: left;
     clear: both;
     font-weight: 400;
-    border-left: 4px solid #ffb703;
-    border-color: #ffb703;
+    border-left: 4px solid #0052da;
+    border-color: #0052da;
 }
 blockquote p {
     font-size: 20px;
@@ -835,7 +835,7 @@ blockquote p {
     height: 42px;
     line-height: 42px;
     border-radius: 50%;
-    background: #ffb703;
+    background: #0052da;
     text-align: center;
     color: #ffffff;
     transition: all 0.5s;
@@ -878,13 +878,13 @@ blockquote p {
     padding: 3px 0;
     border: none;
     transition: all 0.3s ease;
-    background: #ffb703;
+    background: #0052da;
     box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.25);
 }
 .rs-carousel .owl-dots .owl-dot:hover,
 .rs-carousel .owl-dots .owl-dot.active {
     width: 40px;
-    background: #ffb703;
+    background: #0052da;
     opacity: 1;
 }
 .slick-dots {
@@ -980,7 +980,7 @@ blockquote p {
     font-weight: 500;
     line-height: 26px;
     color: #ffffff;
-    background: #ffb703;
+    background: #0052da;
     padding: 16px 35px 16px 35px;
     z-index: 1;
     border-radius: 0px 0px 0px 0px;
@@ -988,9 +988,10 @@ blockquote p {
     overflow: hidden;
 }
 .readon.more {
-    background: #ffb703;
+    background: #0052da;
     padding: 17px 23px 17px 23px;
-    color: #010d14;
+    /* color: #010d14; */
+    color: white;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -1011,7 +1012,7 @@ blockquote p {
 }
 .readon.more.submit {
     padding: 15px 31px 15px 31px;
-    color: #010d14;
+
     border: none;
 }
 .readon.more.submit:hover {
@@ -1416,7 +1417,7 @@ blockquote p {
     padding: 8px 33px;
     font-size: 16px;
     font-weight: 500;
-    background: #ffb703;
+    background: #0052da;
     color: #010d14;
     text-transform: uppercase;
     border: none;
@@ -1438,7 +1439,7 @@ blockquote p {
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
-    background-color: #ffb703;
+    background-color: #0052da;
 }
 .services-btn .btn-text:hover {
     background-color: #010d14;
@@ -1769,7 +1770,7 @@ blockquote p {
     transition: all 0.3s;
 }
 .blog-button.inner-btn:hover a {
-    color: #ffb703;
+    color: #0052da;
 }
 .blog-button.inner-btn:hover a:before {
     right: -10px;
@@ -1868,7 +1869,7 @@ blockquote p {
     right: 68%;
 }
 .submit-btn.debitis {
-    background: #ffb703;
+    background: #0052da;
     padding: 9px 25px;
     display: inline-block;
 }
@@ -1887,7 +1888,7 @@ blockquote p {
     line-height: 70px;
     border-radius: 100%;
     text-align: center;
-    background: #ffb703;
+    background: #0052da;
 }
 .address-wrap-item .icon-part i {
     text-align: center;
@@ -1914,7 +1915,7 @@ blockquote p {
     height: 70px;
     border-radius: 50%;
     animation: pulse-border 1500ms ease-out infinite;
-    background: #ffb703;
+    background: #0052da;
 }
 .address-wrap {
     display: flex;
@@ -2050,7 +2051,7 @@ blockquote p {
     top: 50%;
     z-index: 9;
     text-align: center;
-    background-color: #ffb703;
+    background-color: #0052da;
 }
 .rs-videos .animate-border .popup-border i {
     transition: 0.3s ease all;
@@ -2059,7 +2060,7 @@ blockquote p {
     position: relative;
 }
 .rs-videos .animate-border .popup-border:before {
-    background-color: #ffb703;
+    background-color: #0052da;
     content: "";
     position: absolute;
     z-index: 0;
@@ -2227,7 +2228,7 @@ blockquote p {
     margin-right: 7px;
 }
 .sec-title .sub-text.yellow-color {
-    color: #ffb703;
+    color: #0052da;
 }
 .sec-title .sub-text.sub-text2 {
     position: relative;
@@ -2240,7 +2241,7 @@ blockquote p {
     border: 0;
     width: 50px;
     height: 2px;
-    background: #ffb703;
+    background: #0052da;
     z-index: 1;
     margin-left: 0;
     left: 0;
@@ -2380,7 +2381,7 @@ blockquote p {
     border: 0;
     width: 65px;
     height: 5px;
-    background: #ffb703;
+    background: #0052da;
     z-index: 1;
     margin-left: 0;
     left: 0;
@@ -2399,7 +2400,7 @@ blockquote p {
     right: 0;
 }
 .sec-title .title.title4.ser-style2 span {
-    color: #ffb703;
+    color: #0052da;
 }
 .sec-title .title.title4.ser-style3 {
     font-size: 35px;
@@ -2521,7 +2522,7 @@ blockquote p {
     font-weight: 500;
     line-height: 28px;
     text-transform: uppercase;
-    color: #ffb703;
+    color: #0052da;
     display: block;
     margin: 0 0 5px;
 }
@@ -2530,7 +2531,7 @@ blockquote p {
     font-weight: 500;
     line-height: 28px;
     text-transform: uppercase;
-    color: #ffb703;
+    color: #0052da;
     margin: 0 0 0px;
     display: block;
     position: relative;
@@ -2544,7 +2545,7 @@ blockquote p {
     height: 4px;
     width: 12px;
     border-radius: 2px;
-    background-color: #ffb703;
+    background-color: #0052da;
     transition: all 0.3s ease;
     z-index: 0;
 }
@@ -2559,7 +2560,7 @@ blockquote p {
     left: 24px;
     top: 12px;
     border-radius: 2px;
-    background-color: #ffb703;
+    background-color: #0052da;
     transition: all 0.3s ease;
     z-index: 0;
 }
@@ -2581,7 +2582,7 @@ blockquote p {
     content: "";
     width: 12px;
     height: 4px;
-    background: #ffb703;
+    background: #0052da;
     position: absolute;
     bottom: -4px;
     left: 50%;
@@ -2596,7 +2597,7 @@ blockquote p {
     content: "";
     width: 65px;
     height: 4px;
-    background: #ffb703;
+    background: #0052da;
     position: absolute;
     bottom: -4px;
     right: 0;
@@ -2619,12 +2620,12 @@ blockquote p {
 }
 .sec-title2:hover .sub-text:before {
     width: 65px;
-    background: #ffb703;
+    background: #0052da;
 }
 .sec-title2:hover .sub-text:after {
     margin-left: 46px;
     width: 12px;
-    background: #ffb703;
+    background: #0052da;
 }
 .sec-title2:hover .heading-border-line {
     position: relative;
@@ -2632,12 +2633,12 @@ blockquote p {
 .sec-title2:hover .heading-border-line:before {
     margin-left: -5px;
     width: 65px;
-    background: #ffb703;
+    background: #0052da;
 }
 .sec-title2:hover .heading-border-line:after {
     width: 12px;
     margin-left: 35px;
-    background: #ffb703;
+    background: #0052da;
 }
 .sec-title3 {
     position: relative;
@@ -2807,7 +2808,7 @@ blockquote p {
     .rs-contact-info
     li
     i {
-    color: #ffb703;
+    color: #0052da;
     margin-right: 6px;
 }
 .full-width-header
@@ -2841,7 +2842,7 @@ blockquote p {
     .rs-contact-info
     li
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header
     .rs-header
@@ -2892,7 +2893,7 @@ blockquote p {
     .opening
     em
     i {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header
     .rs-header
@@ -2945,7 +2946,7 @@ blockquote p {
     li
     a
     i:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header
     .rs-header
@@ -3396,7 +3397,7 @@ blockquote p {
     .info-icon
     i:before {
     font-size: 32px;
-    color: #ffb703;
+    color: #0052da;
     transition: all 0.5s ease;
     display: block;
 }
@@ -3443,7 +3444,7 @@ blockquote p {
     .contact-info
     .info-des
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header
     .rs-header
@@ -3583,7 +3584,7 @@ blockquote p {
     ul.nav-menu
     li
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header
     .rs-header
@@ -3634,7 +3635,7 @@ blockquote p {
     ul.nav-menu
     li.current-menu-item
     > a {
-    color: #ffb703 !important;
+    color: #0052da !important;
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.sub-menu {
     background: #ffffff;
@@ -3667,7 +3668,7 @@ blockquote p {
     ul.sub-menu
     li
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header
     .rs-header
@@ -3700,7 +3701,7 @@ blockquote p {
     ul.onepage-menu
     li.current-menu-item
     > a {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul li a:hover,
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul li.active a,
@@ -3720,7 +3721,7 @@ blockquote p {
     ul
     li.current-menu-item
     > a:before {
-    color: #ffb703 !important;
+    color: #0052da !important;
 }
 .full-width-header .rs-header .menu-area.sticky {
     background: #fff;
@@ -3749,7 +3750,7 @@ blockquote p {
     ul.nav-menu
     > li
     > a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header
     .rs-header
@@ -3759,7 +3760,7 @@ blockquote p {
     ul.nav-menu
     > li.current-menu-item
     > a {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header
     .rs-header
@@ -3794,7 +3795,7 @@ blockquote p {
     top: 3px;
 }
 .full-width-header .rs-header .expand-btn-inner ul .search-parent a i:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header .rs-header .expand-btn-inner ul .search-parent .sticky_form {
     position: absolute;
@@ -3940,7 +3941,7 @@ blockquote p {
 }
 .full-width-header .rs-header .expand-btn-inner ul .btn-quote .quote-button {
     font-size: 14px;
-    background: #ffb703;
+    background: #0052da;
     padding: 11px 30px 10px;
     color: #010d14;
     text-transform: uppercase;
@@ -3990,7 +3991,7 @@ blockquote p {
     height: 5px;
     width: 5px;
     display: block;
-    background: #ffb703;
+    background: #0052da;
     border-radius: 50%;
     transition: none;
     list-style: none;
@@ -4053,7 +4054,7 @@ blockquote p {
     .nav-expander
     .bar
     span.dot8 {
-    background: #ffb703;
+    background: #0052da;
 }
 .full-width-header
     .rs-header
@@ -4374,8 +4375,8 @@ blockquote p {
     display: block;
     position: relative;
     top: 0;
-    background: #ffb703;
-    border-color: #ffb703;
+    background: #0052da;
+    border-color: #0052da;
 }
 .full-width-header
     .rs-header.header-style1
@@ -4418,7 +4419,7 @@ blockquote p {
     .search-parent
     a
     i {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header
     .rs-header.header-style1
@@ -5416,7 +5417,7 @@ blockquote p {
     float: right;
 }
 .full-width-header .mobile-menu .rs-menu-toggle.primary {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header .mobile-menu .rs-menu-toggle.secondary {
     color: #ff6d00;
@@ -5494,7 +5495,7 @@ blockquote p {
     transform: translate(-50%, -50%) rotate(-45deg);
 }
 .full-width-header .right_menu_togle .close-btn:hover .nav-close .line span {
-    background: #ffb703;
+    background: #0052da;
 }
 .full-width-header .right_menu_togle .canvas-logo {
     padding-left: 0;
@@ -5526,7 +5527,7 @@ blockquote p {
     i:before {
     margin: 0 20px 0 0;
     font-size: 25px;
-    color: #ffb703;
+    color: #0052da;
     top: 5px;
     position: relative;
     font-family: uicons-regular-rounded !important;
@@ -5577,7 +5578,7 @@ blockquote p {
     .info-content
     em
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .full-width-header .right_menu_togle .canvas-contact .social {
     margin: 40px 0 0;
@@ -5590,7 +5591,7 @@ blockquote p {
     color: #fff;
     margin: 0 8px 0 0;
     text-align: center;
-    background: #ffb703;
+    background: #0052da;
     width: 35px;
     height: 35px;
     line-height: 35px;
@@ -5696,7 +5697,7 @@ blockquote p {
 }
 .full-width-header .mobile-navbar-menu .nav-menu li.active-menu a,
 .full-width-header .mobile-navbar-menu .nav-menu li a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 body.modal-open {
     padding: 0 !important;
@@ -6208,7 +6209,7 @@ body .search-modal .close:hover {
     right: 0;
     transition: all 0.3s ease;
     z-index: -1;
-    background: #ffb703;
+    background: #0052da;
     width: 65px;
 }
 .rs-breadcrumbs .breadcrumbs-inner .sub-text {
@@ -6241,7 +6242,7 @@ body .search-modal .close:hover {
 .rs-breadcrumbs .breadcrumbs-inner .breadcrumbs-area li a:before {
     content: "";
     position: absolute;
-    background: #ffb703;
+    background: #0052da;
     width: 7px;
     height: 7px;
     border-radius: 50%;
@@ -6249,7 +6250,7 @@ body .search-modal .close:hover {
     top: 5px;
 }
 .rs-breadcrumbs .breadcrumbs-inner .breadcrumbs-area li a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-breadcrumbs.img1 {
     background: url(assets/images/breadcrumbs/inr-1.jpg);
@@ -6633,7 +6634,7 @@ body .search-modal .close:hover {
     .sl-subtitle:before {
     position: absolute;
     content: "";
-    background: #ffb703;
+    background: #0052da;
     height: 2px;
     transition: all 0.4s ease;
     width: 50px;
@@ -6691,7 +6692,7 @@ body .search-modal .close:hover {
     width: 100%;
     height: 25px;
     z-index: -1;
-    background-color: #ffb703;
+    background-color: #0052da;
 }
 .rs-slider.slider-style2
     .slider
@@ -6776,7 +6777,7 @@ body .search-modal .close:hover {
     font-weight: 500;
     line-height: 28px;
     opacity: 1;
-    color: #ffb703;
+    color: #0052da;
     text-transform: uppercase;
     display: block;
     margin: 0 0 10px;
@@ -7863,7 +7864,7 @@ body .search-modal .close:hover {
     .rs-addon-services
     .services-item
     .serial-number {
-    background-color: #ffb703;
+    background-color: #0052da;
     position: absolute;
     left: 0px !important;
     font-size: 20px;
@@ -7911,7 +7912,7 @@ body .search-modal .close:hover {
     .icon-list-item
     li
     i {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-choose.choose-style1
     .widget-wrap-content
@@ -7955,7 +7956,7 @@ body .search-modal .close:hover {
     .working-skill-part
     .view-result
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-choose.choose-style2 .choose-content {
     padding: 115px 130px 100px;
@@ -8270,7 +8271,7 @@ body .search-modal .close:hover {
 .rs-counter.counter-style1 .rs-counter-list {
     text-align: left;
     padding: 28px 35px 40px 35px;
-    background: #ffb7031f;
+    background: #0052da1f;
     clip-path: polygon(
         15% 0%,
         100% 0,
@@ -8293,14 +8294,14 @@ body .search-modal .close:hover {
     font-size: 42px;
     line-height: 60px;
     font-weight: 700;
-    color: #ffb703;
+    color: #0052da;
     font-family: "roboto", Sans-serif;
 }
 .rs-counter.counter-style1 .rs-counter-list .count-text .count-number .prefix {
     font-size: 42px;
     line-height: 60px;
     font-weight: 700;
-    color: #ffb703;
+    color: #0052da;
     font-family: "roboto", Sans-serif;
 }
 .rs-counter.counter-style1 .rs-counter-list .count-text .title {
@@ -8322,7 +8323,7 @@ body .search-modal .close:hover {
     top: 6px;
     bottom: 0;
     width: 70px;
-    background: #ffb7031f;
+    background: #0052da1f;
     height: 125px;
 }
 .rs-counter.counter-style1.counter-modify1 .rs-counter-list .count-text .title {
@@ -8722,7 +8723,7 @@ body .search-modal .close:hover {
     .content-text
     .title
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-contact.contact-style1
     .contact-box-item
@@ -8746,7 +8747,7 @@ body .search-modal .close:hover {
     .content-text
     .services-txt
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-contact.contact-style1 .contact-map {
     overflow: hidden;
@@ -9367,7 +9368,7 @@ body .search-modal .close:hover {
     color: #010d14;
 }
 .rs-contact.contact-style5 .contact-box .content-text .title a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-contact.contact-style5 .contact-box .content-text .services-txt {
     color: #333333;
@@ -9377,7 +9378,7 @@ body .search-modal .close:hover {
     color: #333333;
 }
 .rs-contact.contact-style5 .contact-box .content-text .services-txt a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-contact.contact-style5 .contact-section {
     padding: 85px 70px 65px 70px;
@@ -9520,14 +9521,14 @@ body .search-modal .close:hover {
     color: #ffffff;
 }
 .rs-contact.contact-style6 .contact-box .content-text .title a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-contact.contact-style6 .contact-box .content-text span a {
     color: #c9c9c9;
     font-weight: 500;
 }
 .rs-contact.contact-style6 .contact-box .content-text span a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-contact.contact-style6 .contact-box .content-text .services-txt {
     margin: 0;
@@ -9638,7 +9639,7 @@ body .search-modal .close:hover {
     position: relative;
 }
 .rs-videos.career-style1 .overly-border {
-    border: 1px solid #ffb703;
+    border: 1px solid #0052da;
     border-radius: 50%;
     width: 100px;
     height: 100px;
@@ -9662,7 +9663,7 @@ body .search-modal .close:hover {
     top: 50%;
     z-index: 9;
     text-align: center;
-    background: #ffb703;
+    background: #0052da;
 }
 .rs-videos.career-style1 .overly-border a i {
     font-size: 30px;
@@ -9684,7 +9685,7 @@ body .search-modal .close:hover {
     border-radius: 50%;
     animation: pulse-border 1500ms ease-out infinite;
     transition: all 0.3s ease;
-    background: #ffb703;
+    background: #0052da;
 }
 .rs-videos.career-style1 .overly-border a:after {
     content: "";
@@ -9944,7 +9945,7 @@ body .search-modal .close:hover {
     z-index: -1;
     transform: rotate(45deg);
     transform: translate(0px, 0px) rotate(0deg) !important;
-    background: #ffb703;
+    background: #0052da;
     border-radius: 50px 50px 50px 50px;
     transition: all 0.3s ease 0s;
 }
@@ -10048,7 +10049,7 @@ body .search-modal .close:hover {
     .project-inner
     .title
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-project.project-style1
     .project-item
@@ -10073,7 +10074,7 @@ body .search-modal .close:hover {
     .project-inner
     .category
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-project.project-style1 .project-item .project-content .p-icon {
     position: absolute;
@@ -10081,7 +10082,7 @@ body .search-modal .close:hover {
     width: 87px;
     height: 88px;
     text-align: center;
-    background: #ffb703;
+    background: #0052da;
     z-index: 7;
     bottom: 0;
     line-height: 98px;
@@ -10141,7 +10142,7 @@ body .search-modal .close:hover {
     height: 50px;
     line-height: 50px;
     text-align: center;
-    background: #ffb703;
+    background: #0052da;
     color: #ffffff;
     border-radius: 50%;
     transition: all ease 800ms;
@@ -10189,7 +10190,7 @@ body .search-modal .close:hover {
     .project-inner
     .category
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-project.project-style2
     .project-item
@@ -10216,7 +10217,7 @@ body .search-modal .close:hover {
     .project-inner
     .title
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-project.project-style2 .project-item:before {
     content: "";
@@ -10809,7 +10810,7 @@ body .search-modal .close:hover {
     .project-content
     .category
     a {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-project.project-style5.yellow-modify4
     .project-item
@@ -10864,7 +10865,7 @@ body .search-modal .close:hover {
     .project-inner
     .title
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-project.project-style6
     .project-item
@@ -10877,7 +10878,7 @@ body .search-modal .close:hover {
     font-weight: 500;
     text-transform: uppercase;
     border-radius: 40px 40px 40px 40px;
-    background-color: #ffb703;
+    background-color: #0052da;
     transition: all ease 0.3s;
     display: inline-block;
 }
@@ -10923,7 +10924,7 @@ body .search-modal .close:hover {
     .project-inner
     .category
     a {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-project.project-style7
     .project-item
@@ -10931,7 +10932,7 @@ body .search-modal .close:hover {
     .project-inner
     .category
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-project.project-style7
     .project-item
@@ -10958,7 +10959,7 @@ body .search-modal .close:hover {
     .project-inner
     .title
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-project.project-style7 .project-item .project-content .p-icon {
     width: 50px;
@@ -10966,7 +10967,7 @@ body .search-modal .close:hover {
     text-align: center;
     line-height: 50px;
     border-radius: 50px;
-    background: #ffb703;
+    background: #0052da;
     font-size: 18px;
 }
 .rs-project.project-style7 .project-item .project-content .p-icon a {
@@ -11009,7 +11010,7 @@ body .search-modal .close:hover {
     line-height: 55px;
     border-radius: 50px;
     color: #010d14;
-    background: #ffb703;
+    background: #0052da;
     font-size: 20px;
     position: absolute;
     right: 30px;
@@ -11037,7 +11038,7 @@ body .search-modal .close:hover {
     color: #010d14;
 }
 .rs-project.project-style8 .project-item .project-content .title a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-project.project-style8 .project-item .project-content .category {
     font-size: 16px;
@@ -11050,7 +11051,7 @@ body .search-modal .close:hover {
     color: #333333;
 }
 .rs-project.project-style8 .project-item .project-content .category a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-project.project-style8 .project-item:hover .project-img .project-btn {
     opacity: 1;
@@ -11278,7 +11279,7 @@ body .search-modal .close:hover {
 .rs-skillbar.skillbar-style1 .cl-skill-bar .skillbar .skillbar-bar {
     height: 7px;
     line-height: 7px;
-    background-color: #ffb703;
+    background-color: #0052da;
     border-radius: 3px 3px 3px 3px;
     margin-bottom: 0;
     overflow: visible !important;
@@ -11487,7 +11488,7 @@ body .search-modal .close:hover {
     .skillbar-bar {
     height: 11px;
     line-height: 11px;
-    background-color: #ffb703;
+    background-color: #0052da;
     border-radius: 0px 0px 0px 0px;
 }
 .rs-skillbar.skillbar-style1.skillbar-modify5
@@ -11557,7 +11558,7 @@ body .search-modal .close:hover {
     .services-content
     .service-inner
     .icon-top {
-    background: #ffb703;
+    background: #0052da;
     display: inline-block;
     margin-bottom: 20px;
     padding: 15px;
@@ -11646,7 +11647,7 @@ body .search-modal .close:hover {
     .services-wrap
     .normarl-text-area
     .icon-image {
-    background: #ffb703;
+    background: #0052da;
     padding: 15px 20px;
 }
 .rs-services.services-main-home
@@ -11690,7 +11691,7 @@ body .search-modal .close:hover {
     width: 80px;
     height: 80px;
     border-radius: 0% 0% 0% 0%;
-    background-color: #ffb703;
+    background-color: #0052da;
 }
 .rs-services.services-style1 .services-slider .services-img a img {
     width: 40px;
@@ -11720,7 +11721,7 @@ body .search-modal .close:hover {
     .services-titles
     .title
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-services.services-style1 .services-slider .services-content .services-txt {
     margin: 0 0 25px;
@@ -11756,13 +11757,13 @@ body .search-modal .close:hover {
     color: #010d14;
 }
 .rs-services.services-style2 .services-box .services-content .title a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-services.services-style2 .services-box .services-content .services-txt {
     margin: 0;
 }
 .rs-services.services-style2 .services-box.services-yellow-box {
-    background-color: #ffb703;
+    background-color: #0052da;
 }
 .rs-services.services-style2
     .services-box.services-yellow-box
@@ -11802,7 +11803,7 @@ body .search-modal .close:hover {
     color: #010d14;
 }
 .rs-services.services-style3 .services-item .services-text .title a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-services.services-style3 .services-item .services-text .services-txt {
     margin: 0;
@@ -11811,7 +11812,7 @@ body .search-modal .close:hover {
     display: block;
     width: 47px;
     left: 124px;
-    background: #ffb703;
+    background: #0052da;
     content: "";
     height: 4px;
     position: absolute;
@@ -12223,7 +12224,7 @@ body .search-modal .close:hover {
     color: #010d14;
 }
 .rs-services.services-style13 .services-item .services-text .title a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-services.services-style13 .services-item .services-text .services-txt {
     margin-bottom: 0px;
@@ -12599,7 +12600,7 @@ body .search-modal .close:hover {
     height: 3px;
     display: block;
     width: 120px;
-    border-bottom: 2px dashed #ffb703;
+    border-bottom: 2px dashed #0052da;
     content: "";
     margin: 0 auto;
 }
@@ -12611,7 +12612,7 @@ body .search-modal .close:hover {
     margin-bottom: 15px;
 }
 .rs-services-single .services-add .address-wrap-item .title span {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-services-single .services-add .address-wrap-item a {
     font-size: 34px;
@@ -12644,7 +12645,7 @@ body .search-modal .close:hover {
     font-size: 16px;
     font-weight: 500;
     padding: 18px 35px 18px 35px;
-    background-color: #ffb703;
+    background-color: #0052da;
     color: #010d14;
     margin: 0 -4px;
 }
@@ -12718,7 +12719,7 @@ body .search-modal .close:hover {
     font-size: 18px;
     font-weight: 500;
     padding: 17px 25px 17px 35px;
-    background-color: #ffb703;
+    background-color: #0052da;
     color: #010d14;
 }
 .rs-faq.faq-style1 .faq-content .accordion .card .card-header .card-link:after {
@@ -12753,7 +12754,7 @@ body .search-modal .close:hover {
     .card
     .card-header
     .card-link.collapsed:after {
-    color: #ffb703;
+    color: #0052da;
     content: "\f067";
 }
 .rs-faq.faq-style1
@@ -12849,7 +12850,7 @@ body .search-modal .close:hover {
     .team-content
     .title
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-team.team-style1
     .vertical-widget-content
@@ -12889,7 +12890,7 @@ body .search-modal .close:hover {
     height: 50px;
     visibility: visible;
     opacity: 1;
-    background: #ffb703;
+    background: #0052da;
     font-size: 0;
     border: none;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0);
@@ -13006,7 +13007,7 @@ body .search-modal .close:hover {
     .team-info
     .team-name
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-team.team-style2
     .team-item-wrap
@@ -13048,7 +13049,7 @@ body .search-modal .close:hover {
     li
     a
     i:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-team.team-style2
     .team-item-wrap
@@ -13101,7 +13102,7 @@ body .search-modal .close:hover {
     a
     i:hover {
     color: #010d14;
-    background: #ffb703;
+    background: #0052da;
 }
 .rs-team.team-style3 .team-item-wrap .team-inner-wrap {
     border-radius: 0 0 5px 5px;
@@ -13376,7 +13377,7 @@ body .search-modal .close:hover {
     .team-content
     .plus-team
     .share-i {
-    background: #ffb703;
+    background: #0052da;
     color: #010d14;
 }
 .rs-team.team-style3.team-modify3
@@ -13385,7 +13386,7 @@ body .search-modal .close:hover {
     .team-content
     .plus-team
     .social-icons {
-    background: #ffb703;
+    background: #0052da;
 }
 .rs-team.team-style3.team-modify3
     .team-item-wrap
@@ -13431,7 +13432,7 @@ body .search-modal .close:hover {
     .team-info
     .team-name
     a {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-team.team-style3.team-modify3
     .team-item-wrap:hover
@@ -13800,7 +13801,7 @@ body .search-modal .close:hover {
     .author-text
     .team-name
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-team.team-style4.yellow-team-modiy1
     .team-item
@@ -13812,7 +13813,7 @@ body .search-modal .close:hover {
     li
     a
     i {
-    background: #ffb703;
+    background: #0052da;
     color: #010d14;
 }
 .rs-team.team-style4.yellow-team-modiy1
@@ -13867,7 +13868,7 @@ body .search-modal .close:hover {
     .team-info
     .team-name
     a {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-team.team-style5
     .team-item
@@ -13876,7 +13877,7 @@ body .search-modal .close:hover {
     .team-info
     .team-name
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-team.team-style5
     .team-item
@@ -13919,7 +13920,7 @@ body .search-modal .close:hover {
     li
     a
     i:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-team.team-style5
     .team-item
@@ -13970,14 +13971,14 @@ body .search-modal .close:hover {
     .team-content
     .team-name
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-team.team-style6 .team-item .team-inner-wrap .team-content .team-title {
     font-size: 14px;
     font-weight: 400;
     text-transform: uppercase;
     padding-top: 5px;
-    color: #ffb703;
+    color: #0052da;
     display: block;
     font-family: "Poppins", sans-serif;
 }
@@ -14057,7 +14058,7 @@ body .search-modal .close:hover {
     li
     a
     i:hover {
-    background: #ffb703;
+    background: #0052da;
     color: #010d14;
 }
 .rs-team.team-style6 .team-item:hover .team-inner-wrap .team-content {
@@ -14093,7 +14094,7 @@ body .search-modal .close:hover {
     font-size: 16px;
     line-height: 26px;
     font-weight: 500;
-    color: #ffb703;
+    color: #0052da;
     text-transform: uppercase;
     font-family: roboto;
     padding-bottom: 5px;
@@ -14134,7 +14135,7 @@ body .search-modal .close:hover {
     span
     i {
     font-size: 23px;
-    color: #ffb703;
+    color: #0052da;
     margin-right: 18px;
     font-weight: 500;
     display: inline-block;
@@ -14150,7 +14151,7 @@ body .search-modal .close:hover {
     .personal-info
     li
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-team-single .btm-info-team .con-info .ps-informations .social-info {
     margin-top: 15px;
@@ -14169,7 +14170,7 @@ body .search-modal .close:hover {
     .social-info
     li
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-team-single
     .btm-info-team
@@ -14489,7 +14490,7 @@ body .search-modal .close:hover {
     font-size: 16px;
     position: relative;
     top: 3px;
-    color: #ffb703;
+    color: #0052da;
     float: right;
     margin-right: 0;
 }
@@ -14537,7 +14538,7 @@ body .search-modal .close:hover {
     font-family: "roboto", Sans-serif;
 }
 .rs-blog.blog-main-home .blog-item .blog-content .blog-meta .date i {
-    color: #ffb703;
+    color: #0052da;
     margin-right: 6px;
     font-weight: 900;
 }
@@ -14551,7 +14552,7 @@ body .search-modal .close:hover {
     font-family: "roboto", Sans-serif;
 }
 .rs-blog.blog-main-home .blog-item .blog-content .blog-meta .admin i {
-    color: #ffb703;
+    color: #0052da;
     margin-right: 6px;
     font-weight: 900;
 }
@@ -14570,7 +14571,7 @@ body .search-modal .close:hover {
     color: #010d14;
 }
 .rs-blog.blog-main-home .blog-item .blog-content .blog-title a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-blog.blog-main-home .blog-item:hover .image-wrap a img {
     transform: scale(1.1);
@@ -15169,7 +15170,7 @@ body .search-modal .close:hover {
     color: #010d14;
 }
 .rs-inner-blog .blog-item .blog-content .blog-title a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-inner-blog .blog-item .blog-content .blog-meta .btm-cate {
     overflow: hidden;
@@ -15190,7 +15191,7 @@ body .search-modal .close:hover {
     font-weight: 400;
 }
 .rs-inner-blog .blog-item .blog-content .blog-meta .btm-cate li .blog-date i {
-    color: #ffb703;
+    color: #0052da;
     position: relative;
     margin-right: 2px;
     top: 2px;
@@ -15216,7 +15217,7 @@ body .search-modal .close:hover {
     margin-right: 3px;
     position: relative;
     top: 2px;
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-inner-blog
     .blog-item
@@ -15230,7 +15231,7 @@ body .search-modal .close:hover {
 }
 .rs-inner-blog .blog-item .blog-content .blog-meta .btm-cate li .tag-line i {
     margin-right: 2px;
-    color: #ffb703;
+    color: #0052da;
     position: relative;
     top: 2px;
 }
@@ -15247,7 +15248,7 @@ body .search-modal .close:hover {
     li
     .tag-line
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-inner-blog .blog-item .blog-content .blog-meta .btm-cate li:last-child {
     margin-right: 0;
@@ -15275,7 +15276,7 @@ body .search-modal .close:hover {
     border: 0;
     width: 50px;
     height: 2px;
-    background: #ffb703;
+    background: #0052da;
     z-index: 1;
     margin-left: 0;
     bottom: 0;
@@ -15321,7 +15322,7 @@ body .search-modal .close:hover {
     top: 9px;
 }
 .rs-inner-blog .widget-area .search-widget .search-wrap button:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-inner-blog .widget-area .recent-posts {
     background: #fff;
@@ -15359,7 +15360,7 @@ body .search-modal .close:hover {
     .recent-post-widget
     .post-desc
     a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-inner-blog
     .widget-area
@@ -15389,7 +15390,7 @@ body .search-modal .close:hover {
     i:before {
     top: 1px;
     font-size: 13px;
-    color: #ffb703;
+    color: #0052da;
     position: relative;
 }
 .rs-inner-blog .widget-area .categories {
@@ -15409,7 +15410,7 @@ body .search-modal .close:hover {
     transition: all 0.4s ease-in-out 0s;
 }
 .rs-inner-blog .widget-area .categories ul li a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-inner-blog .widget-area .categories ul li:first-child {
     border-top: none;
@@ -15434,7 +15435,7 @@ body .search-modal .close:hover {
 }
 .rs-inner-blog .widget-area .tags-cloud .tagcloud a:hover {
     color: #ffffff;
-    background: #ffb703;
+    background: #0052da;
 }
 .rs-inner-blog .blog-details .blog-full .blog-content-full .title {
     font-size: 28px;
@@ -15465,7 +15466,7 @@ body .search-modal .close:hover {
     text-align: center;
     font-weight: normal;
     color: #010d14;
-    background: #ffb703;
+    background: #0052da;
     padding: 2px 15px 4px;
     margin-left: 7px;
     border-radius: 0px;
@@ -15624,7 +15625,7 @@ body .search-modal .close:hover {
     height: 50px;
     visibility: visible;
     opacity: 1;
-    background: #ffb703;
+    background: #0052da;
     font-size: 0;
     border: none;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0);
@@ -16499,7 +16500,7 @@ body .search-modal .close:hover {
     text-decoration: none;
     border-radius: 0px;
     line-height: 33px;
-    border: 0px solid #ffb703;
+    border: 0px solid #0052da;
     text-align: center;
     transition: all 0.4s ease-in-out 0s;
     padding: 5px 20px;
@@ -16516,7 +16517,7 @@ body .search-modal .close:hover {
     color: #010d14;
     font-weight: 700;
     line-height: 40px;
-    background: #ffb703;
+    background: #0052da;
     width: 40px;
     height: 40px;
     text-align: center;
@@ -16538,7 +16539,7 @@ body .search-modal .close:hover {
     color: #010d14;
 }
 .rs-shop-part .product-list .content-desc .loop-product-title a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-shop-part .product-list .content-desc .price {
     font-size: 16px;
@@ -16558,7 +16559,7 @@ body .search-modal .close:hover {
     text-decoration: none;
     border-radius: 0px;
     line-height: 33px;
-    border: 0px solid #ffb703;
+    border: 0px solid #0052da;
     text-align: center;
     transition: all 0.4s ease-in-out 0s;
     padding: 5px 20px;
@@ -16580,7 +16581,7 @@ body .search-modal .close:hover {
     margin-bottom: 12px;
 }
 .rs-single-shop .single-price-info .single-price {
-    color: #ffb703;
+    color: #0052da;
     font-weight: 600;
 }
 .rs-single-shop .single-price-info .some-text {
@@ -16612,7 +16613,7 @@ body .search-modal .close:hover {
     color: #666666;
 }
 .rs-single-shop .single-price-info p.category a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-single-shop .single-price-info .tag {
     margin: 0;
@@ -16643,7 +16644,7 @@ body .search-modal .close:hover {
 }
 .rs-single-shop .tab-area ul.nav-tabs li .nav-link:hover,
 .rs-single-shop .tab-area ul.nav-tabs li .nav-link.active {
-    background: #ffb703;
+    background: #0052da;
     color: #010d14;
 }
 .rs-single-shop .tab-area ul.nav-tabs li:last-child {
@@ -16767,7 +16768,7 @@ body .search-modal .close:hover {
     ul
     li
     i {
-    color: #ffb703;
+    color: #0052da;
     font-weight: normal;
 }
 /*----------------------------------------
@@ -16827,7 +16828,7 @@ body .search-modal .close:hover {
     font-weight: 700;
 }
 .rs-cart .cart-wrap table.cart-table .product-name a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-cart .cart-wrap table.cart-table .product-price {
     font-weight: 700;
@@ -17029,7 +17030,7 @@ body .search-modal .close:hover {
 }
 .rs-checkout .coupon-toggle .accordion .card {
     border: unset;
-    border-top: 3px solid #ffb703;
+    border-top: 3px solid #0052da;
     border-radius: 0;
 }
 .rs-checkout .coupon-toggle .accordion .card .card-header {
@@ -17046,7 +17047,7 @@ body .search-modal .close:hover {
 .rs-checkout .coupon-toggle .accordion .card .card-header .card-title button {
     background: unset;
     border: none;
-    color: #ffb703;
+    color: #0052da;
     transition: all 0.3s ease;
     outline: none;
     cursor: pointer;
@@ -17058,7 +17059,7 @@ body .search-modal .close:hover {
     .card-header
     .card-title
     button:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-checkout .coupon-toggle .accordion .card .card-body {
     border: 1px solid #d3ced2;
@@ -17209,7 +17210,7 @@ body .search-modal .close:hover {
     color: #333333;
 }
 .rs-my-account .rs-login .form-group label span {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-my-account .rs-login .form-group input {
     width: 100%;
@@ -17223,7 +17224,7 @@ body .search-modal .close:hover {
     font-size: 15px;
     line-height: 26px;
     font-weight: 400;
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-my-account .rs-login p {
     font-size: 15px;
@@ -17236,7 +17237,7 @@ body .search-modal .close:hover {
     font-size: 15px;
     line-height: 26px;
     font-weight: 400;
-    color: #ffb703;
+    color: #0052da;
 }
 /*------------------------------------
 	32. Footer Section CSS
@@ -17280,7 +17281,7 @@ body .search-modal .close:hover {
     text-align: center;
 }
 .rs-footer.footer-main-home .footer-top .footer-social li a i:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-footer.footer-main-home .footer-top .footer-social li:last-child {
     margin-right: 0;
@@ -17290,7 +17291,7 @@ body .search-modal .close:hover {
     position: relative;
 }
 .rs-footer.footer-main-home .footer-top .address-widget li i {
-    color: #ffb703;
+    color: #0052da;
     position: absolute;
     left: 0;
 }
@@ -17306,7 +17307,7 @@ body .search-modal .close:hover {
     color: #ffffff;
 }
 .rs-footer.footer-main-home .footer-top .address-widget li .desc a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-footer.footer-main-home .footer-top .site-map {
     margin-top: -6px;
@@ -17325,13 +17326,13 @@ body .search-modal .close:hover {
 }
 .rs-footer.footer-main-home .footer-top .site-map li a:hover {
     padding-left: 5px;
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-footer.footer-main-home .footer-top .site-map li a:before {
     content: "\f113";
     left: 0;
     top: 0;
-    color: #ffb703;
+    color: #0052da;
     margin-right: 10px;
     font-size: 13px;
     font-family: Flaticon;
@@ -17353,7 +17354,7 @@ body .search-modal .close:hover {
 .rs-footer.footer-main-home .footer-top p input[type="submit"] {
     position: relative;
     border: none;
-    background: #ffb703;
+    background: #0052da;
     color: #010d14;
     padding: 16px 35px 16px;
     font-weight: 500;
@@ -17407,7 +17408,7 @@ body .search-modal .close:hover {
     color: red;
 }
 .rs-footer.footer-main-home .footer-bottom .copyright p a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-footer.footer-main-home .footer-bottom .copy-right-menu li {
     display: inline-block;
@@ -17419,14 +17420,14 @@ body .search-modal .close:hover {
     color: #ffffff;
 }
 .rs-footer.footer-main-home .footer-bottom .copy-right-menu li a:hover {
-    color: #ffb703;
+    color: #0052da;
 }
 .rs-footer.footer-main-home .footer-bottom .copy-right-menu li:before {
     display: block;
     content: "";
     position: absolute;
     font-size: 18px;
-    background: #ffb703;
+    background: #0052da;
     left: 0;
     top: 50%;
     width: 6px;
@@ -17983,7 +17984,7 @@ body .search-modal .close:hover {
     color: #010d14;
     line-height: 36px;
     transition: all 0.3s ease 0s;
-    background: #ffb703;
+    background: #0052da;
     margin-left: 2px;
     box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.04);
     display: block;
@@ -18889,7 +18890,7 @@ body .search-modal .close:hover {
     transform: translate(-50%, -50%);
     width: 100px;
     height: 100px;
-    border-top: 3px solid #ffb703;
+    border-top: 3px solid #0052da;
     border-radius: 50%;
     animation: loaderspin 1.8s infinite ease-in-out;
     -webkit-animation: loaderspin 1.8s infinite ease-in-out;
