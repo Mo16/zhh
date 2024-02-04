@@ -256,7 +256,7 @@ ul {
     background: url(https://ld-wp73.template-help.com/wordpress/prod_6437/v1/wp-content/uploads/2016/10/image1-1170x650.jpg);
     background-position: center center;
     background-repeat: no-repeat;
-    box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, .4);
+    box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, 0.4);
     background-size: cover;
 }
 .bg5 {
@@ -6255,7 +6255,7 @@ body .search-modal .close:hover {
 }
 .rs-breadcrumbs.img1 {
     background: url(https://ld-wp.template-help.com/wordpress_63395/wp-content/uploads/2016/10/image6.jpg);
-    box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, .67)
+    box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, 0.67);
 }
 .rs-breadcrumbs.img2 {
     background: url(assets/images/breadcrumbs/inr-2.jpg);
@@ -6270,7 +6270,7 @@ body .search-modal .close:hover {
     background: url(assets/images/breadcrumbs/inr-5.jpg);
 }
 .rs-breadcrumbs.img6 {
-    background: url(assets/images/breadcrumbs/inr-6.jpg);
+    background: url(https://ld-wp73.template-help.com/wordpress/prod_6437/v1/wp-content/uploads/2021/04/image36.jpg);
 }
 /* ------------------------------------
 	07. Banner Section CSS
@@ -9433,7 +9433,7 @@ body .search-modal .close:hover {
     opacity: 0.45;
 }
 .rs-contact.contact-style6 .contact-project {
-    background: url(assets/images/contact/pro-con2.jpg);
+    background: url(https://ld-wp73.template-help.com/wordpress/prod_24603/v1/wp-content/uploads/2019/05/s4.png);
     background-position: center right;
     background-repeat: no-repeat;
     background-size: cover;
