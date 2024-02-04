@@ -253,9 +253,10 @@ ul {
 }
 .bg4 {
     background-color: #010d14;
-    background: url(assets/images/bg/cta-bg.jpg);
+    background: url(https://ld-wp73.template-help.com/wordpress/prod_6437/v1/wp-content/uploads/2016/10/image1-1170x650.jpg);
     background-position: center center;
     background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, .4);
     background-size: cover;
 }
 .bg5 {
@@ -6253,7 +6254,8 @@ body .search-modal .close:hover {
     color: #0052da;
 }
 .rs-breadcrumbs.img1 {
-    background: url(assets/images/breadcrumbs/inr-1.jpg);
+    background: url(https://ld-wp.template-help.com/wordpress_63395/wp-content/uploads/2016/10/image6.jpg);
+    box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, .67)
 }
 .rs-breadcrumbs.img2 {
     background: url(assets/images/breadcrumbs/inr-2.jpg);
@@ -8040,7 +8042,7 @@ body .search-modal .close:hover {
     transform: scale(1.1);
 }
 .rs-choose.choose-style3 .video-item {
-    background-image: url(assets/images/video/video-image2.jpg);
+    background-image: url(https://ld-wp73.template-help.com/wordpress/prod_10684/v2/wp-content/uploads/2020/11/Depositphotos_25630745_original-1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -11500,7 +11502,7 @@ body .search-modal .close:hover {
     color: #fff;
 }
 .rs-skillbar.skillbar-style1 .video-img {
-    background-image: url(assets/images/video/video-image5.jpg);
+    background-image: url(https://ld-wp73.template-help.com/wordpress/prod_6437/v1/wp-content/uploads/2016/10/image2-1170x650.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
