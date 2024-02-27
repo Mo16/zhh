@@ -3536,7 +3536,6 @@ blockquote p {
         transition: all 0.3s ease 0s;
         z-index: 10;
     }
-    
 }
 .full-width-header .rs-header .menu-area .row-table {
     display: flex;
@@ -3741,6 +3740,7 @@ blockquote p {
 }
 .full-width-header .rs-header .menu-area.sticky .logo-area a .normal-logo {
     display: none;
+
 }
 .full-width-header
     .rs-header
@@ -19375,5 +19375,45 @@ spiner {
     }
     100% {
         transform: translateY(0);
+    }
+}
+
+.top {
+    display: none;
+}
+
+@media only screen and (max-width: 900px) {
+    .top {
+        position: relative;
+        padding: 5px;
+        display: flex;
+        top: 66px;
+        flex-direction: column;
+        color: white;
+        background-color: #6554ff;
+    }
+    .top .title {
+        display: flex;
+        gap: 20px;
+        justify-content: flex-start;
+
+    }
+    .top .info-icon {
+        font-size: 1rem;
+
+        display: flex;
+
+        align-items: center;
+    }
+    .top h2 {
+        font-size: 1.1rem;
+        padding: 0;
+        color: white;
+        margin: 0;
+    }
+
+    .top .info {
+        font-size: 0.9rem;
+        width: 100%;
     }
 }

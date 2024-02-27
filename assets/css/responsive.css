@@ -2374,7 +2374,7 @@
         line-height: 70px;
     }
     .full-width-header .rs-header .menu-area .logo-area img {
-        max-height: 25px;
+        max-height: 45px !important;
     }
     .rs-services.services-main-home
         .services-item
